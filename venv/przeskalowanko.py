@@ -1,0 +1,1 @@
+#obraz = im.resize(128, 128)
